@@ -1,0 +1,96 @@
+C:\Users\Asus\source\repos\sampleProject_layout\sampleProject_layout\bin\Debug\sampleProject_layout.exe.config
+C:\Users\Asus\source\repos\sampleProject_layout\sampleProject_layout\bin\Debug\sampleProject_layout.exe
+C:\Users\Asus\source\repos\sampleProject_layout\sampleProject_layout\bin\Debug\sampleProject_layout.pdb
+C:\Users\Asus\source\repos\sampleProject_layout\sampleProject_layout\obj\Debug\sampleProject_layout.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\sampleProject_layout\sampleProject_layout\obj\Debug\sampleProject_layout.Properties.Resources.resources
+C:\Users\Asus\source\repos\sampleProject_layout\sampleProject_layout\obj\Debug\sampleProject_layout.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\sampleProject_layout\sampleProject_layout\obj\Debug\sampleProject_layout.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\sampleProject_layout\sampleProject_layout\obj\Debug\sampleProject_layout.exe
+C:\Users\Asus\source\repos\sampleProject_layout\sampleProject_layout\obj\Debug\sampleProject_layout.pdb
+C:\Users\Asus\source\repos\sampleProject_layout\sampleProject_layout\bin\Debug\MySql.Data.dll
+C:\Users\Asus\source\repos\sampleProject_layout\sampleProject_layout\obj\Debug\sampleProject_layout.signin.resources
+C:\Users\Asus\source\repos\sampleProject_layout\sampleProject_layout\obj\Debug\sampleProject_layout.signup.resources
+C:\Users\Asus\source\repos\sampleProject_layout\sampleProject_layout\obj\Debug\sampleProject_layout.csproj.CopyComplete
+C:\Users\Asus\source\repos\sampleProject_layout\sampleProject_layout\obj\Debug\sampleProject_layout.pharmacyForm.resources
+C:\Users\Asus\source\repos\sampleProject_layout\sampleProject_layout\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\Asus\source\repos\sampleProject_layout\sampleProject_layout\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\Users\Asus\source\repos\sampleProject_layout\sampleProject_layout\obj\Debug\sampleProject_layout.inventory.resources
+C:\Users\Asus\source\repos\sampleProject_layout\sampleProject_layout\obj\Debug\sampleProject_layout.customers.resources
+C:\Users\Asus\source\repos\sampleProject_layout\sampleProject_layout\obj\Debug\sampleProject_layout.addProduct.resources
+C:\Users\Asus\source\repos\sampleProject_layout\sampleProject_layout\obj\Debug\sampleProject_layout.editProduct.resources
+C:\Users\Asus\source\repos\sampleProject_layout\sampleProject_layout\obj\Debug\sampleProject_layout.supplier.resources
+C:\Users\Asus\source\repos\sampleProject_layout\sampleProject_layout\obj\Debug\sampleProject_layout.purchaseHistory.resources
+C:\Users\Asus\source\repos\sampleProject_layout\sampleProject_layout\obj\Debug\sampleProject_layout.receiving.resources
+C:\Users\Asus\source\repos\sampleProject_layout\sampleProject_layout\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\Asus\source\repos\sampleProject_layout\sampleProject_layout\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\Asus\source\repos\sampleProject_layout\sampleProject_layout\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\Asus\source\repos\sampleProject_layout\sampleProject_layout\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\sampleProject_layout_publish\sampleProject_layout\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\sampleProject_layout_publish\sampleProject_layout\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\sampleProject_layout_publish\sampleProject_layout\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\sampleProject_layout_publish\sampleProject_layout\bin\Debug\MySql.Data.dll
+C:\sampleProject_layout_publish\sampleProject_layout\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\sampleProject_layout_publish\sampleProject_layout\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\sampleProject_layout_publish\sampleProject_layout\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\sampleProject_layout_publish\sampleProject_layout\obj\Debug\sampleProject_layout.csproj.AssemblyReference.cache
+C:\sampleProject_layout_publish\sampleProject_layout\obj\Debug\sampleProject_layout.addProduct.resources
+C:\sampleProject_layout_publish\sampleProject_layout\obj\Debug\sampleProject_layout.customers.resources
+C:\sampleProject_layout_publish\sampleProject_layout\obj\Debug\sampleProject_layout.editProduct.resources
+C:\sampleProject_layout_publish\sampleProject_layout\obj\Debug\sampleProject_layout.inventory.resources
+C:\sampleProject_layout_publish\sampleProject_layout\obj\Debug\sampleProject_layout.pharmacyForm.resources
+C:\sampleProject_layout_publish\sampleProject_layout\obj\Debug\sampleProject_layout.purchaseHistory.resources
+C:\sampleProject_layout_publish\sampleProject_layout\obj\Debug\sampleProject_layout.receiving.resources
+C:\sampleProject_layout_publish\sampleProject_layout\obj\Debug\sampleProject_layout.signin.resources
+C:\sampleProject_layout_publish\sampleProject_layout\obj\Debug\sampleProject_layout.Properties.Resources.resources
+C:\sampleProject_layout_publish\sampleProject_layout\obj\Debug\sampleProject_layout.signup.resources
+C:\sampleProject_layout_publish\sampleProject_layout\obj\Debug\sampleProject_layout.supplier.resources
+C:\sampleProject_layout_publish\sampleProject_layout\obj\Debug\sampleProject_layout.csproj.GenerateResource.cache
+C:\sampleProject_layout_publish\sampleProject_layout\obj\Debug\sampleProject_layout.csproj.CoreCompileInputs.cache
+C:\sampleProject_layout_publish\sampleProject_layout\obj\Debug\sampleProject_layout.csproj.CopyComplete
+C:\sampleProject_layout_publish\sampleProject_layout\bin\Debug\SJ Pharmacy.exe.config
+C:\sampleProject_layout_publish\sampleProject_layout\bin\Debug\SJ Pharmacy.exe.manifest
+C:\sampleProject_layout_publish\sampleProject_layout\bin\Debug\SJ Pharmacy.application
+C:\sampleProject_layout_publish\sampleProject_layout\bin\Debug\SJ Pharmacy.exe
+C:\sampleProject_layout_publish\sampleProject_layout\bin\Debug\SJ Pharmacy.pdb
+C:\sampleProject_layout_publish\sampleProject_layout\obj\Debug\SJ Pharmacy.exe.manifest
+C:\sampleProject_layout_publish\sampleProject_layout\obj\Debug\SJ Pharmacy.application
+C:\sampleProject_layout_publish\sampleProject_layout\obj\Debug\SJ Pharmacy.exe
+C:\sampleProject_layout_publish\sampleProject_layout\obj\Debug\SJ Pharmacy.pdb
+C:\sampleProject_layout_publish\sampleProject_layout\obj\Debug\SJ Pharmacy.exe.config
+C:\SJPharmacy\sampleProject_layout_publish\sampleProject_layout\obj\Debug\sampleProject_layout.csproj.AssemblyReference.cache
+C:\SJPharmacy\sampleProject_layout_publish\sampleProject_layout\obj\Debug\SJ Pharmacy.exe.config
+C:\SJPharmacy\sampleProject_layout_publish\sampleProject_layout\obj\Debug\sampleProject_layout.addProduct.resources
+C:\SJPharmacy\sampleProject_layout_publish\sampleProject_layout\obj\Debug\sampleProject_layout.customers.resources
+C:\SJPharmacy\sampleProject_layout_publish\sampleProject_layout\obj\Debug\sampleProject_layout.editProduct.resources
+C:\SJPharmacy\sampleProject_layout_publish\sampleProject_layout\obj\Debug\sampleProject_layout.inventory.resources
+C:\SJPharmacy\sampleProject_layout_publish\sampleProject_layout\obj\Debug\sampleProject_layout.pharmacyForm.resources
+C:\SJPharmacy\sampleProject_layout_publish\sampleProject_layout\obj\Debug\sampleProject_layout.purchaseHistory.resources
+C:\SJPharmacy\sampleProject_layout_publish\sampleProject_layout\obj\Debug\sampleProject_layout.signin.resources
+C:\SJPharmacy\sampleProject_layout_publish\sampleProject_layout\obj\Debug\sampleProject_layout.Properties.Resources.resources
+C:\SJPharmacy\sampleProject_layout_publish\sampleProject_layout\obj\Debug\sampleProject_layout.signup.resources
+C:\SJPharmacy\sampleProject_layout_publish\sampleProject_layout\obj\Debug\sampleProject_layout.csproj.GenerateResource.cache
+C:\SJPharmacy\sampleProject_layout_publish\sampleProject_layout\obj\Debug\sampleProject_layout.csproj.CoreCompileInputs.cache
+C:\SJPharmacy\sampleProject_layout_publish\sampleProject_layout\obj\Debug\SJ Pharmacy.exe
+C:\SJPharmacy\sampleProject_layout_publish\sampleProject_layout\obj\Debug\SJ Pharmacy.pdb
+C:\SJPharmacy\sampleProject_layout_publish\sampleProject_layout\bin\Debug\SJ Pharmacy.exe.config
+C:\SJPharmacy\sampleProject_layout_publish\sampleProject_layout\bin\Debug\SJ Pharmacy.exe.manifest
+C:\SJPharmacy\sampleProject_layout_publish\sampleProject_layout\bin\Debug\SJ Pharmacy.application
+C:\SJPharmacy\sampleProject_layout_publish\sampleProject_layout\bin\Debug\SJ Pharmacy.exe
+C:\SJPharmacy\sampleProject_layout_publish\sampleProject_layout\bin\Debug\SJ Pharmacy.pdb
+C:\SJPharmacy\sampleProject_layout_publish\sampleProject_layout\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\SJPharmacy\sampleProject_layout_publish\sampleProject_layout\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\SJPharmacy\sampleProject_layout_publish\sampleProject_layout\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\SJPharmacy\sampleProject_layout_publish\sampleProject_layout\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\SJPharmacy\sampleProject_layout_publish\sampleProject_layout\bin\Debug\System.Buffers.dll
+C:\SJPharmacy\sampleProject_layout_publish\sampleProject_layout\bin\Debug\System.Memory.dll
+C:\SJPharmacy\sampleProject_layout_publish\sampleProject_layout\bin\Debug\System.Numerics.Vectors.dll
+C:\SJPharmacy\sampleProject_layout_publish\sampleProject_layout\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\SJPharmacy\sampleProject_layout_publish\sampleProject_layout\bin\Debug\System.Text.Encodings.Web.dll
+C:\SJPharmacy\sampleProject_layout_publish\sampleProject_layout\bin\Debug\System.Text.Json.dll
+C:\SJPharmacy\sampleProject_layout_publish\sampleProject_layout\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\SJPharmacy\sampleProject_layout_publish\sampleProject_layout\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\SJPharmacy\sampleProject_layout_publish\sampleProject_layout\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\SJPharmacy\sampleProject_layout_publish\sampleProject_layout\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\SJPharmacy\sampleProject_layout_publish\sampleProject_layout\obj\Debug\SJ Pharmacy.exe.manifest
+C:\SJPharmacy\sampleProject_layout_publish\sampleProject_layout\obj\Debug\SJ Pharmacy.application
+C:\SJPharmacy\sampleProject_layout_publish\sampleProject_layout\obj\Debug\sampleProject_layout.csproj.CopyComplete
